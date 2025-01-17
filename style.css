@@ -115,7 +115,6 @@ a {
     width: 200px;
     height: 450px;
     text-align: center;
-    font-style: italic;
 }
 
 .card img {
@@ -127,3 +126,10 @@ a {
     margin-bottom: 10px;
 }
 
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    background-color: #e5e7eb;
+}
