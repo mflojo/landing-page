@@ -177,12 +177,29 @@ a {
 .sign-wrapper {
     display: flex;
     flex: 1;
-    margin: 70px 140px 70px 140px;
-    padding: 40px;
+    margin: 80px 140px;
+    padding: 50px;
     background-color: #3882f6;
     border-radius: 8px;
     justify-content: space-around;
     align-items: center;
+}
+
+.sign-text-header {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.sign-text-info {
+    font-size: 14px;
+}
+
+.sign-button {
+    border: 3px solid white;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 150px;
+    text-align: center;
 }
 
 
