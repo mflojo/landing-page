@@ -192,6 +192,7 @@ a {
 
 .sign-text-info {
     font-size: 14px;
+    color: #e5e7eb;
 }
 
 .sign-button {
@@ -202,5 +203,12 @@ a {
     text-align: center;
 }
 
-
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 40px;
+    color: #e5e7eb;
+}
 
