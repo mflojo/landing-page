@@ -166,3 +166,24 @@ a {
     margin-right: 100px;
     margin-bottom: 80px;
 }
+
+.sign-up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.sign-wrapper {
+    display: flex;
+    flex: 1;
+    margin: 70px 140px 70px 140px;
+    padding: 40px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
